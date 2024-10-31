@@ -1,0 +1,41 @@
+html {
+    background-color: white;
+    margin: 2cm;
+}
+
+body {
+    background-color: rgb(253, 132, 76);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    border: red solid 5px;
+    text-align: center;
+    border-radius:  20px;
+    padding-top: 2rem ;
+}
+
+img {
+    border-radius: 120px;
+    width: 100px;
+    height: 100px;
+}
+
+.perfil {
+    color: blueviolet;
+}
+
+.desc {
+    color: burlywood;
+}
+
+a {
+    margin: 5px;
+    background-color: gray;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: left;
+}
